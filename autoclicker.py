@@ -1,3 +1,4 @@
+##pip install pynput
 import time, threading
 from pynput.mouse import Controller, Button
 from pynput.keyboard import Listener, KeyCode
