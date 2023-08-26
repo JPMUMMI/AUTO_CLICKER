@@ -1,3 +1,4 @@
+##pip install pynput
 import time
 import threading
 from pynput.mouse import Controller, Button
